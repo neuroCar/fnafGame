@@ -1,0 +1,30 @@
+[gd_resource type="SpriteFrames" load_steps=6 format=3 uid="uid://dbbuv0anmkyjt"]
+
+[ext_resource type="Texture2D" uid="uid://dex78pjcnsyym" path="res://New Piskel/power0.png" id="1_5j456"]
+[ext_resource type="Texture2D" uid="uid://cu03ytt1hrq4c" path="res://New Piskel/power1.png" id="2_judcx"]
+[ext_resource type="Texture2D" uid="uid://cr5jfs0md8bcb" path="res://New Piskel/power2.png" id="3_h846p"]
+[ext_resource type="Texture2D" uid="uid://c5l647iw85r20" path="res://New Piskel/power3.png" id="4_g24hd"]
+[ext_resource type="Texture2D" uid="uid://bc0apyg3uwmwu" path="res://New Piskel/power4.png" id="5_kgrdv"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_5j456")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_judcx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_h846p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_g24hd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_kgrdv")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]

@@ -1,0 +1,20 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture2D"
+uid="uid://bc0apyg3uwmwu"
+path="res://.godot/imported/power4.png-e9b95164eea318974d08faed9c67f731.res"
+group_file="res://power.png"
+valid=true
+[deps]
+
+
+source_file="res://New Piskel/power4.png"
+dest_files=["res://.godot/imported/power4.png-e9b95164eea318974d08faed9c67f731.res"]
+
+[params]
+
+atlas_file="res://power.png"
+import_mode=0
+crop_to_region=false
+trim_alpha_border_from_region=true
