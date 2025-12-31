@@ -18,7 +18,7 @@ func _process(_delta: float) -> void:
 		usage = 1
 	else:
 		usage = 0
-	powerIndicator.update_visual(usage)
+	powerIndicator.set_frame(usage)
 
 func _on_timer_timeout() -> void:
 	power -= usage
